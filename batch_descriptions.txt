@@ -1,0 +1,24 @@
+Initial medium sized batches
+public1.tar.gz
+revised.tar.gz
+
+Small batches to test various new functionality
+1to30.tar.gz
+login_test.tar.gz
+monitor.tar.gz
+pilot2.tar.gz
+
+Added login system here to fix issues with missing files (caused by refreshes generating new user ids)
+p_1to510_hmm.tar.gz
+p_510to1110_hmm.tar.gz
+
+Larger batches of 1000 abstracts, with higher spam content relative to other batches.
+big1.tar.gz
+big2.tar.gz
+big3.tar.gz
+
+Collecting additional annotations for all pmids. Again, pretty spammy.
+p_extension_pt1.tar.gz
+p_extension_pt2.tar.gz
+p_extension_pt3.tar.gz
+p_extension_pt4.tar.gz
